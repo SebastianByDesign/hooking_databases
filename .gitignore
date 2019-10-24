@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+working_files
+.sass-cache
+*.psd
+*.eps
+*.ai
